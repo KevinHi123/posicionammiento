@@ -1,0 +1,42 @@
+/*centrar contenedores
+div{
+    border: 1px solid red;
+    max-width: 50%;
+    margin: auto;
+    margin-top: 60px;
+    margin-left: 50px;
+    margin-bottom: 100px;
+    margin-right: 50px;
+}*/
+/*posicionamiento estatico*//*
+h1{
+    text-align: center;
+    color: crimson;
+}
+h2{
+    position: static;
+    border: 1px solid red;
+    top: 300px;
+    max-width: 50%;
+    left: 50px;
+
+}
+div{
+    position: static;
+    top: 200px;
+    left: 50px;
+    max-width: 50%;
+    border: 3px solid blue;
+    margin: auto;
+}*/
+/*posicionamiento fixed*/
+h1{
+    text-align: center;
+    color: red;
+}
+div{
+    position: relative;
+    top: 0px;
+    right: 0px;
+    border: 1px solid crimson;
+}
